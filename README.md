@@ -18,4 +18,5 @@ If you press escape after a text box appears with a warning saying that you can'
 - **Expected:** Text box should is still visible
 
 ## Media  
-![Warning UI Persistence](/media/image.png) 
+![Warning UI Persistence]
+![image](https://github.com/user-attachments/assets/00e743f7-0f51-4dc0-b054-0e127ecfc6f4)
