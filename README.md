@@ -35,3 +35,24 @@ If you press escape after a text box appears with a warning saying that you can'
 - **Actual:**  two squares show up (check image attached)
 <img width="1987" height="1110" alt="image" src="https://github.com/user-attachments/assets/01a8017c-cac5-4e31-9596-11f0f0c52cea" />
 
+
+# Bug Report: esCAPADe augment doesn't convert the AP gained from Archangel's staff
+**Game:** League of Legends
+
+## Reproduction Steps  
+- Step 1: Go into a Arena game mode match
+- Step 2: Select esCAPADe augment
+- Step 3: Buy Archangel's staff
+## Expected vs Actual Behavior  
+- **Expected:** AP gained from archangel's staff should be converted to AD
+- **Actual:**  AP gained is not converted to AD (check video and screenshots below)
+
+Video evidence: https://youtu.be/6Auj0eF2liE
+Screenshots:
+
+<img width="1882" height="1131" alt="image" src="https://github.com/user-attachments/assets/f03090ed-10c6-43f7-880f-1c3c5f5d5a74" />
+<img width="1862" height="1116" alt="image" src="https://github.com/user-attachments/assets/d9a6b323-2d89-46d5-b7a2-796a8983bfe1" />
+
+
+
+
